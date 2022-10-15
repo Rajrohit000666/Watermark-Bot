@@ -1,5 +1,5 @@
 # Watermark-Bot
-A Telegram Video Watermark Adder Bot by [@AbirHasan2005](https://github.com/AbirHasan2005)
+A Telegram Video Watermark Adder Bot by [@cute_girl_rani](https://github.com/Rajrohit000666)
 
 ## Features:
 - Save Custom Watermark Image.
@@ -13,7 +13,7 @@ A Telegram Video Watermark Adder Bot by [@AbirHasan2005](https://github.com/Abir
 - Broadcast Feature.
 - Can Save Watermark Position for users.
 - Can Save Watermark Size for users.
-- Can Upload to [Streamtape](https://streamtape.com/) if File Size is more than 2GB.
+- Can Upload to [Streamtape](https://streamtape.com/) if File Size is more than 9GB.
 
 ### Demo Bot:
 <a href="https://t.me/VideoWatermark_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
@@ -30,9 +30,9 @@ A Telegram Video Watermark Adder Bot by [@AbirHasan2005](https://github.com/Abir
 - `PRESET` - Video Encoding Preset Type *(Optional)*
 	- Better put `ultrafast` or `superfast` or `veryfast`
 - `STREAMTAPE_API_PASS` - Get this from [Here](https://streamtape.com/accpanel#collapseThree).
-	- For Uploading to Streamtape if File Size is more than 2GB.
+	- For Uploading to Streamtape if File Size is more than 9GB.
 - `STREAMTAPE_API_USERNAME` - Get this from [Here](https://streamtape.com/accpanel#collapseThree).
-	- For Uploading to Streamtape if File Size is more than 2GB.
+	- For Uploading to Streamtape if File Size is more than 9GB.
 
 ## BotFather Commands:
 ```
@@ -51,14 +51,14 @@ reset - Reset all settings to default
 
 #### Easiest Way [Deploy To Heroku] 😪
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Watermark-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajrohit000666/Watermark-Bot)
 
 #### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=A7wnaKMHpvU&t)
 
 #### The Hard Way 🤕
 ```sh
-git clone https://github.com/AbirHasan2005/Watermark-Bot
+git clone https://github.com/Rajrohit000666/Watermark-Bot
 cd Watermark-Bot
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
@@ -69,14 +69,14 @@ python3 bot.py
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Rajrohit000666"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://t.me/cute_girl_rani"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://t.me/movie4ubotschannel"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://t.me/movie4ubotschannel"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
